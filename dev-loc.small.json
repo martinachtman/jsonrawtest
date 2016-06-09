@@ -1,0 +1,16 @@
+[
+  {
+    "name": "sample_dev-loc-loader",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-05-27T06:58:44.766879864Z"
+  },
+  {
+    "name": "sample_dev-loc-adminui",
+    "virtualhost": "adminui.dev-loc.sample.org",
+    "branch": "develop",
+    "state": "running",
+    "started": "2016-05-27T06:41:23.753585153Z"
+  }
+]
